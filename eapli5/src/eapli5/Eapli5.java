@@ -14,6 +14,7 @@ public class Eapli5 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("oi");
+        System.out.println("Linha 1");
+        System.out.println("Linha 2");
     }
 }
